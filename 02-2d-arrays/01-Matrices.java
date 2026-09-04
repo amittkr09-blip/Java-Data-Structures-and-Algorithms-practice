@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Matrices {
+class Matrices {
     public static void main(String[] args) {
         int matrix[][] = new int[3][3];
         int n = matrix.length; // rows
