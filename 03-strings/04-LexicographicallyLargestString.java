@@ -1,4 +1,4 @@
-public class LexicographicallyLargestString {
+class LexicographicallyLargestString {
     public static void main(String[] args) {
         String fruits[] = { "apple", "mango", "banana" };
         String largest = fruits[0];
