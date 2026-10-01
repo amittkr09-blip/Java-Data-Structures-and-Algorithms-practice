@@ -15,12 +15,12 @@
 // }
 // DECREASING ORDER
 
-public class printNumber {
+class printNumber {
     public static void printNumbers(int n) {
         if (n <= 1) {
             System.out.println(n);
             return;
-            
+
         }
         System.out.print(n + " ");
         printNumbers(n - 1);
