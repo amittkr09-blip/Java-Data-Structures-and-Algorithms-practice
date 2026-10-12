@@ -11,8 +11,8 @@ class lastOccurance {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 8, 3, 6, 9, 5, 10, 2, 5, 3 };
-        System.out.println(findLastOccurance(arr, 5, 0));
+        int arr[] = { 8, 3, 10, 9, 5, 10, 2, 5, 3 };
+        System.out.println(findLastOccurance(arr, 10, 0));
     }
 
 }
