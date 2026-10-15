@@ -14,6 +14,6 @@ class tilingProblem {
     }
 
     public static void main(String[] args) {
-        System.out.println(tilingPrb(4));
+        System.out.println(tilingPrb(0));
     }
 }
